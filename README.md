@@ -1,7 +1,7 @@
 # Hello, I'm Yashodhar! 👋
 <a>
-<img  alt="CI" width="50%" src="https://github-readme-stats.vercel.app/api?username=PansuriyaMaulik&show_icons=true&theme=transparent">
-<img  alt="language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PansuriyaMaulik&layout=compact">  
+<img  alt="CI" width="50%" src="https://github-readme-stats.vercel.app/api?username=YashodharPansuriya&show_icons=true&theme=transparent">
+<img  alt="language" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashodharPansuriya&layout=compact">  
 </a>
 
 <h3>Languages and Tools:</h3>
